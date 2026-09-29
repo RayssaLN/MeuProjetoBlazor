@@ -6,8 +6,8 @@ Projeto desenvolvido como atividade prática da unidade curricular **UDWMJ** (Us
 
 | Campo | Valor |
 |-------|-------|
-| **Aluno** | Eduardo Alves e Santos |
-| **RA** | 124114208 |
+| **Aluno** | Rayssa Leal Nascimento |
+| **RA** | 12419301 |
 | **UC** | UDWMJ |
 | **Período** | 6º |
 
